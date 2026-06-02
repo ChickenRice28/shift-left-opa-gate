@@ -1,0 +1,5 @@
+terraform.tfvars
+.terraform/
+*.tfplan
+tfplan.binary
+plan.json
